@@ -4,7 +4,7 @@ Bir sinemanın film, salon, koltuk, seans, kullanıcı, rezervasyon ve ödeme s�
 
 Proje kapsamında kullanıcıların bilet rezervasyonu yapabilmesi, rezervasyonlara ait ödeme bilgilerinin tutulması ve sistem üzerindeki işlemlerin loglanması sağlanmaktadır.
 
-## Kullanılan Teknolojiler
+# Kullanılan Teknolojiler
 
 - MySQL
 - MySQL Workbench
@@ -124,7 +124,7 @@ sinema/
 
 Veritabanının oluşturulması, tabloların tanımlanması, ilişkilerin kurulması, kısıtlamaların eklenmesi ve gerekli verilerin oluşturulmasını içeren SQL dosyasıdır.
 
-### sinema_er_diagram.png
+# sinema_er_diagram.png
 
 MySQL Workbench kullanılarak oluşturulan veritabanı ER Diagram'ıdır.
 
@@ -138,7 +138,7 @@ Projeyi çalıştırmak için:
 4. SQL scriptini çalıştırın.
 5. `sinema` veritabanı oluşturulduktan sonra tabloları ve ilişkileri inceleyebilirsiniz.
 
-## 🎯 Projenin Amacı
+# Projenin Amacı
 
 Bu proje ile ilişkisel veritabanı tasarımı kapsamında;
 
